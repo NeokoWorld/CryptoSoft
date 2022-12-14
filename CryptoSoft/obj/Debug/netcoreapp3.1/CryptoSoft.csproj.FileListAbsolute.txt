@@ -12,3 +12,16 @@ C:\Users\fclea\source\repos\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\Crypto
 C:\Users\fclea\source\repos\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.dll
 C:\Users\fclea\source\repos\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.pdb
 C:\Users\fclea\source\repos\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.genruntimeconfig.cache
+C:\Users\Arlan Kowo\CryptoSoft\CryptoSoft\bin\Debug\netcoreapp3.1\CryptoSoft.exe
+C:\Users\Arlan Kowo\CryptoSoft\CryptoSoft\bin\Debug\netcoreapp3.1\CryptoSoft.deps.json
+C:\Users\Arlan Kowo\CryptoSoft\CryptoSoft\bin\Debug\netcoreapp3.1\CryptoSoft.runtimeconfig.json
+C:\Users\Arlan Kowo\CryptoSoft\CryptoSoft\bin\Debug\netcoreapp3.1\CryptoSoft.runtimeconfig.dev.json
+C:\Users\Arlan Kowo\CryptoSoft\CryptoSoft\bin\Debug\netcoreapp3.1\CryptoSoft.dll
+C:\Users\Arlan Kowo\CryptoSoft\CryptoSoft\bin\Debug\netcoreapp3.1\CryptoSoft.pdb
+C:\Users\Arlan Kowo\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.csprojAssemblyReference.cache
+C:\Users\Arlan Kowo\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.AssemblyInfoInputs.cache
+C:\Users\Arlan Kowo\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.AssemblyInfo.cs
+C:\Users\Arlan Kowo\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.csproj.CoreCompileInputs.cache
+C:\Users\Arlan Kowo\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.dll
+C:\Users\Arlan Kowo\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.pdb
+C:\Users\Arlan Kowo\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.genruntimeconfig.cache

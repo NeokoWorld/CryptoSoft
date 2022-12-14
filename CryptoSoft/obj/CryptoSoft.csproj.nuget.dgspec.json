@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fclea\\Documents\\CESI\\Projet 2\\Code\\CryptoSoft\\CryptoSoft\\CryptoSoft.csproj": {}
+    "C:\\Users\\Arlan Kowo\\CryptoSoft\\CryptoSoft\\CryptoSoft.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fclea\\Documents\\CESI\\Projet 2\\Code\\CryptoSoft\\CryptoSoft\\CryptoSoft.csproj": {
+    "C:\\Users\\Arlan Kowo\\CryptoSoft\\CryptoSoft\\CryptoSoft.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fclea\\Documents\\CESI\\Projet 2\\Code\\CryptoSoft\\CryptoSoft\\CryptoSoft.csproj",
+        "projectUniqueName": "C:\\Users\\Arlan Kowo\\CryptoSoft\\CryptoSoft\\CryptoSoft.csproj",
         "projectName": "CryptoSoft",
-        "projectPath": "C:\\Users\\fclea\\Documents\\CESI\\Projet 2\\Code\\CryptoSoft\\CryptoSoft\\CryptoSoft.csproj",
-        "packagesPath": "C:\\Users\\fclea\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fclea\\Documents\\CESI\\Projet 2\\Code\\CryptoSoft\\CryptoSoft\\obj\\",
+        "projectPath": "C:\\Users\\Arlan Kowo\\CryptoSoft\\CryptoSoft\\CryptoSoft.csproj",
+        "packagesPath": "C:\\Users\\Arlan Kowo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arlan Kowo\\CryptoSoft\\CryptoSoft\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\fclea\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Arlan Kowo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +26,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -38,7 +37,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -54,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

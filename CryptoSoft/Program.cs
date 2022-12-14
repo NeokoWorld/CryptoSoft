@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+using System.Text.Encodings;
 
 namespace CryptoSoft
 {
@@ -8,44 +9,45 @@ namespace CryptoSoft
         static void Main(string[] args)
         {
 
-            // Vérifier si un argument a été passé
+            // check if an attribute has been passed or not
             if (args.Length == 0)
             {
                 Console.WriteLine("Aucun chemin d'accès au fichier n'a été spécifié. Veuillez réessayer en précisant un chemin de forme semblable à \"C:\\repertoire\\repertoire\\fichier.extention\"");
                 return;
 
             }
-            // La clé doit être un nombre entier de 64 bits
+            // The key has to bee an integer of 64 bytes
             long key = 0x193A4B7890AB186F;
-            // Le fichier à chiffrer
+            // File to encrypt
             string plaintextFile = args[0];
-            // Le fichier chiffré
+            // File to encrypt
             string ciphertextFile = args[1];
 
-            // Lecture du fichier en clair
+            // Read the File clearly
             string plaintext = File.ReadAllText(plaintextFile);
 
-            // Tableau pour stocker les octets chiffrés
+            // Table to store encrypted bytes
             byte[] ciphertext = new byte[plaintext.Length];
 
-            // Chiffrement du fichier bit par bit en utilisant la clé
+            // Encryption of the file bit by bit using the key
             for (int i = 0; i < plaintext.Length; i++)
             {
-                // Récupération de l'octet en clair
+                // Get to message
                 byte plainByte = (byte)plaintext[i];
 
-                // Récupération du bit à la position i de la clé
+                // Getting the Byte at the i position key
                 long keyBit = (key >> i) & 1;
 
-                // Chiffrement de l'octet en utilisant le bit de la clé
+                // Encrypt the file by using the one of the key 
                 byte cipherByte = (byte)(plainByte ^ keyBit);
 
-                // Stockage de l'octet chiffré dans le tableau
+                // Store the byte in the table
                 ciphertext[i] = cipherByte;
             }
 
-            // Écriture du fichier chiffré
+            // Writting the cipher file
             File.WriteAllBytes(ciphertextFile, ciphertext);
+            Console.WriteLine("Félicitation !! Votre fichier a été Crypté");
         }
     }
 }
